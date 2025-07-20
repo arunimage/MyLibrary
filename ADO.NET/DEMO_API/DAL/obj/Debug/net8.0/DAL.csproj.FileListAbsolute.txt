@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\DAL\obj\Debug\net8.0\ref\DAL.dll

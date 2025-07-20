@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\COMMON\bin\Debug\net8.0\COMMON.deps.json
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\COMMON\bin\Debug\net8.0\COMMON.dll
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\COMMON\bin\Debug\net8.0\COMMON.pdb
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\COMMON\obj\Debug\net8.0\COMMON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\COMMON\obj\Debug\net8.0\COMMON.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\COMMON\obj\Debug\net8.0\COMMON.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\COMMON\obj\Debug\net8.0\COMMON.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\COMMON\obj\Debug\net8.0\COMMON.dll
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\COMMON\obj\Debug\net8.0\refint\COMMON.dll
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\COMMON\obj\Debug\net8.0\COMMON.pdb
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\DEMO_API\COMMON\obj\Debug\net8.0\ref\COMMON.dll

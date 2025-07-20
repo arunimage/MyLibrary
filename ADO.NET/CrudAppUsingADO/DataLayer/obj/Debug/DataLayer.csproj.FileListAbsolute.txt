@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\DataLayer\bin\Debug\Common.dll
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\DataLayer\bin\Debug\Common.pdb
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\DataLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\DataLayer\bin\Debug\System.Data.SqlClient.xml

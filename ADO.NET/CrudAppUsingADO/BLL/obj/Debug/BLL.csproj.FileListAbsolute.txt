@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\BLL\bin\Debug\BLL.dll
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\BLL\bin\Debug\BLL.pdb
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\BLL\obj\Debug\BLL.dll
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\BLL\obj\Debug\BLL.pdb
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\BLL\bin\Debug\Common.dll
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\BLL\bin\Debug\DataLayer.dll
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\BLL\bin\Debug\Common.pdb
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\BLL\bin\Debug\DataLayer.pdb
+C:\Users\Admin\OneDrive\Desktop\ADO.NET\CrudAppUsingADO\BLL\obj\Debug\BLL.csproj.Up2Date

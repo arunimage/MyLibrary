@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1800C6-B3D8-4219-A924-BAC2AA81EA1B}|CrudAppUsingADO\\CrudAppUsingADO.csproj|c:\\users\\admin\\onedrive\\desktop\\ado.net\\crudappusingado\\crudappusingado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD1800C6-B3D8-4219-A924-BAC2AA81EA1B}|CrudAppUsingADO\\CrudAppUsingADO.csproj|solutionrelative:crudappusingado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2041E3E-0960-4191-B407-6F14A3E97221}|DataLayer\\DataLayer.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\datalayer\\implementation\\employeedll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2041E3E-0960-4191-B407-6F14A3E97221}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\implementation\\employeedll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE74C2C-14A7-4140-B0A0-D63A0A2CDFE7}|BLL\\BLL.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\bll\\implementation\\employeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE74C2C-14A7-4140-B0A0-D63A0A2CDFE7}|BLL\\BLL.csproj|solutionrelative:bll\\implementation\\employeebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1800C6-B3D8-4219-A924-BAC2AA81EA1B}|CrudAppUsingADO\\CrudAppUsingADO.csproj|c:\\users\\admin\\onedrive\\desktop\\ado.net\\crudappusingado\\crudappusingado\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1800C6-B3D8-4219-A924-BAC2AA81EA1B}|CrudAppUsingADO\\CrudAppUsingADO.csproj|solutionrelative:crudappusingado\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6E62D5-F419-48B8-B101-A8DCE6B9B447}|Common\\Common.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\common\\models\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6E62D5-F419-48B8-B101-A8DCE6B9B447}|Common\\Common.csproj|solutionrelative:common\\models\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1800C6-B3D8-4219-A924-BAC2AA81EA1B}|CrudAppUsingADO\\CrudAppUsingADO.csproj|c:\\users\\admin\\onedrive\\desktop\\ado.net\\crudappusingado\\crudappusingado\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1800C6-B3D8-4219-A924-BAC2AA81EA1B}|CrudAppUsingADO\\CrudAppUsingADO.csproj|solutionrelative:crudappusingado\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1800C6-B3D8-4219-A924-BAC2AA81EA1B}|CrudAppUsingADO\\CrudAppUsingADO.csproj|c:\\users\\admin\\onedrive\\desktop\\ado.net\\crudappusingado\\crudappusingado\\views\\home\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1800C6-B3D8-4219-A924-BAC2AA81EA1B}|CrudAppUsingADO\\CrudAppUsingADO.csproj|solutionrelative:crudappusingado\\views\\home\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1800C6-B3D8-4219-A924-BAC2AA81EA1B}|CrudAppUsingADO\\CrudAppUsingADO.csproj|c:\\users\\admin\\onedrive\\desktop\\ado.net\\crudappusingado\\crudappusingado\\views\\home\\getallemployeeslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD1800C6-B3D8-4219-A924-BAC2AA81EA1B}|CrudAppUsingADO\\CrudAppUsingADO.csproj|solutionrelative:crudappusingado\\views\\home\\getallemployeeslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\CrudAppUsingADO\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudAppUsingADO\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\CrudAppUsingADO\\appsettings.json",
+              "RelativeToolTip": "CrudAppUsingADO\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T19:12:12.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\Common\\Models\\EmployeeInfo.cs",
+              "RelativeDocumentMoniker": "Common\\Models\\EmployeeInfo.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\Common\\Models\\EmployeeInfo.cs",
+              "RelativeToolTip": "Common\\Models\\EmployeeInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T08:39:58.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\CrudAppUsingADO\\Models\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "CrudAppUsingADO\\Models\\EmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\CrudAppUsingADO\\Models\\EmployeeViewModel.cs",
+              "RelativeToolTip": "CrudAppUsingADO\\Models\\EmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T08:39:31.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\CrudAppUsingADO\\Views\\Home\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "CrudAppUsingADO\\Views\\Home\\AddEmployee.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\CrudAppUsingADO\\Views\\Home\\AddEmployee.cshtml",
+              "RelativeToolTip": "CrudAppUsingADO\\Views\\Home\\AddEmployee.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T09:09:16.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDLL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\DataLayer\\Implementation\\EmployeeDLL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Implementation\\EmployeeDLL.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\DataLayer\\Implementation\\EmployeeDLL.cs",
+              "RelativeToolTip": "DataLayer\\Implementation\\EmployeeDLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:51:34.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllEmployeesList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\CrudAppUsingADO\\Views\\Home\\GetAllEmployeesList.cshtml",
+              "RelativeDocumentMoniker": "CrudAppUsingADO\\Views\\Home\\GetAllEmployeesList.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\CrudAppUsingADO\\Views\\Home\\GetAllEmployeesList.cshtml",
+              "RelativeToolTip": "CrudAppUsingADO\\Views\\Home\\GetAllEmployeesList.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T06:21:38.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\CrudAppUsingADO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CrudAppUsingADO\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\CrudAppUsingADO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CrudAppUsingADO\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:03:11.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\BLL\\Implementation\\EmployeeBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Implementation\\EmployeeBLL.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\ADO.NET\\CrudAppUsingADO\\BLL\\Implementation\\EmployeeBLL.cs",
+              "RelativeToolTip": "BLL\\Implementation\\EmployeeBLL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T08:40:54.098Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
